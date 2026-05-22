@@ -4,19 +4,19 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Data+Analyst;Web+Scraper;Modern+Web+Developer;Predictive+Analysis+Fan;Computer+Science+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=c678dd&center=true&vCenter=true&width=600&lines=Data+Analyst;Web+Scraper;Modern+Web+Developer;Predictive+Analysis+Fan;Computer+Science+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=c678dd&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
 ---
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=frenxpog1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=frenxpog1&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
@@ -57,12 +57,12 @@
 ### 📊 Advanced GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=frenxpog1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frenxpog1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=frenxpog1&show_icons=true&bg_color=0D0C15&title_color=c678dd&text_color=ffffff&icon_color=c678dd&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frenxpog1&background=0D0C15&ring=c678dd&fire=c678dd&currStreakNum=ffffff&currStreakLabel=c678dd&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frenxpog1&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frenxpog1&bg_color=0D0C15&color=c678dd&line=c678dd&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -82,7 +82,7 @@
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
 </div>
 
 <div align="center">
