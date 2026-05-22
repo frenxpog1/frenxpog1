@@ -1,47 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Frenzter%20Padal&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Frenzter%20Padal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Web%20Developer&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Scraper;Web+Developer;Computer+Science+Enthusiast;Predictive+Analysis+Fan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Data+Analyst;Web+Scraper;Modern+Web+Developer;Predictive+Analysis+Fan;Computer+Science+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I'm currently studying **Computer Science** with a focus on **Predictive Analysis**.
-- 💻 Specialized in **Data Analysis**, **Web Scraping**, and **Modern Web Development**.
-- ♟️ Passionate about **Chess**, **MOBA games**, and the evolving **Web3 gaming** landscape.
-- 🎯 Goal: Leveraging data to build smarter, more predictive web applications.
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=frenxpog1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
+### 🚀 About Me & My Arsenal
 
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> |
-| **Web Dev** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> |
-| **Data Science** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /> |
+<table>
+  <tr>
+    <td width="50%">
+      <b>Who am I?</b><br><br>
+      🔭 Studying <b>Computer Science</b> (Predictive Analysis focus).<br>
+      💻 Specializing in <b>Data Analysis, Web Scraping, & Web Dev</b>.<br>
+      ♟️ Passionate about <b>Chess, MOBAs, & Web3 Gaming</b>.<br>
+      🎯 Goal: Leveraging data to build smarter web applications.
+    </td>
+    <td width="50%" align="center">
+      <b>My Tech Stack</b><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,nodejs,postgres,pandas,selenium,numpy&theme=dark&perline=6" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity
+### 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frenxpog1/frenxpog1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frenxpog1/frenxpog1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 📊 Advanced GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frenxpog1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frenxpog1&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frenxpog1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frenxpog1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frenxpog1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frenxpog1&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -61,5 +82,9 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" alt="Footer" />
 </div>
