@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002200&fontColor=39ff14&height=250&section=header&text=Frenzter%20Padal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%20Engineer&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F0FF,007BFF&height=250&section=header&text=Frenzter%20Padal&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Web%20Developer&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=39ff14&center=true&vCenter=true&width=600&lines=Data+Analyst;AI+Engineer;Web+Scraper;Modern+Web+Developer;Predictive+Analysis+Fan;Computer+Science+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Data+Analyst;Web+Scraper;Modern+Web+Developer;Predictive+Analysis;Computer+Science" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=39ff14&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=007BFF&style=flat-square" alt="Visitor Counter" />
 </p>
 
 ---
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=frenxpog1&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <h3>🏆 GitHub Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=frenxpog1&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
@@ -28,7 +28,7 @@
     <td width="50%">
       <b>Who am I?</b><br><br>
       🔭 Studying <b>Computer Science</b> (Predictive Analysis focus).<br>
-      💻 Specializing in <b>AI Engineering, Data Analysis, Web Scraping, & Web Dev</b>.<br>
+      💻 Specializing in <b>AI Engineering, Data Analysis, & Web Dev</b>.<br>
       ♟️ Passionate about <b>Chess, MOBAs, & Web3 Gaming</b>.<br>
       🎯 Goal: Leveraging data to build smarter web applications.
     </td>
@@ -57,12 +57,12 @@
 ### 📊 Advanced GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=frenxpog1&show_icons=true&bg_color=000000&title_color=39ff14&text_color=39ff14&icon_color=39ff14&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frenxpog1&background=000000&ring=39ff14&fire=39ff14&currStreakNum=39ff14&currStreakLabel=39ff14&sideNums=39ff14&sideLabels=39ff14&dates=39ff14&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=frenxpog1&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=007BFF&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frenxpog1&background=0D1117&ring=00F0FF&fire=007BFF&currStreakNum=00F0FF&currStreakLabel=007BFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frenxpog1&bg_color=000000&color=39ff14&line=39ff14&point=000000&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frenxpog1&bg_color=0D1117&color=c9d1d9&line=00F0FF&point=007BFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -71,20 +71,20 @@
 
 <p align="center">
   <a href="mailto:frenzterp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39ff14" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=00F0FF" alt="Email" />
   </a>
   <a href="https://www.facebook.com/frenzpog1">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=39ff14" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-0D1117?style=flat-square&logo=facebook&logoColor=00F0FF" alt="Facebook" />
   </a>
   <a href="https://www.linkedin.com/in/frenzter-padal-702a842b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=hackerman" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Quote" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002200&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007BFF,00F0FF&height=100&section=footer" alt="Footer" />
 </div>
