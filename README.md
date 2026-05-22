@@ -36,7 +36,11 @@
       <b>My Tech Stack</b><br><br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,nodejs,postgres,pandas,selenium,numpy&theme=dark&perline=6" />
-      </a>
+      </a><br><br>
+      <b>AI Tooling</b><br>
+      <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=00F0FF" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Claude%20Code-0D1117?style=flat-square&logo=anthropic&logoColor=00F0FF" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/Codex-0D1117?style=flat-square&logo=openai&logoColor=00F0FF" alt="Codex" />
     </td>
   </tr>
 </table>
