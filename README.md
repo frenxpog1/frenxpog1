@@ -57,7 +57,7 @@
 ### 📊 Advanced GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frenxpog1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=frenxpog1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frenxpog1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
