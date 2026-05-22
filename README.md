@@ -38,9 +38,10 @@
         <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,nodejs,postgres,pandas,selenium,numpy&theme=dark&perline=6" />
       </a><br><br>
       <b>AI Tooling</b><br>
-      <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=00F0FF" alt="Gemini" />
-      <img src="https://img.shields.io/badge/Claude%20Code-0D1117?style=flat-square&logo=anthropic&logoColor=00F0FF" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/Codex-0D1117?style=flat-square&logo=openai&logoColor=00F0FF" alt="Codex" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
     </td>
   </tr>
 </table>
