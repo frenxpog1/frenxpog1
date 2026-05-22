@@ -21,30 +21,33 @@
 
 ---
 
-### 🚀 About Me & My Arsenal
+### 🚀 About Me
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>Who am I?</b><br><br>
-      🔭 Studying <b>Computer Science</b> (Predictive Analysis focus).<br>
-      💻 Specializing in <b>AI Engineering, Data Analysis, & Web Dev</b>.<br>
-      ♟️ Passionate about <b>Chess, MOBAs, & Web3 Gaming</b>.<br>
-      🎯 Goal: Leveraging data to build smarter web applications.
-    </td>
-    <td width="50%" align="center">
-      <b>My Tech Stack</b><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,python,php,js,html,css,react,nodejs,postgres,pandas,selenium,numpy,git,xampp&theme=dark&perline=7" />
-      </a><br>
-      <b>AI Tooling</b><br>
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-    </td>
-  </tr>
-</table>
+- 🔭 Studying **Computer Science** (Predictive Analysis focus).
+- 💻 Specializing in **AI Engineering, Data Analysis, & Web Dev**.
+- ♟️ Passionate about **Chess, MOBAs, & Web3 Gaming**.
+- 🎯 Goal: Leveraging data to build smarter web applications.
+
+---
+
+### 💻 My Arsenal & Tech Stack
+
+<div align="center">
+  <h4><b>Core Technologies</b></h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,php,js,html,css,react,nodejs,postgres,pandas,selenium,numpy,git,xampp&theme=dark&perline=7" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h4><b>AI Tooling</b></h4>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+</div>
 
 ---
 
