@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=c678dd&center=true&vCenter=true&width=600&lines=Data+Analyst;Web+Scraper;Modern+Web+Developer;Predictive+Analysis+Fan;Computer+Science+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=c678dd&center=true&vCenter=true&width=600&lines=Data+Analyst;AI+Engineer;Web+Scraper;Modern+Web+Developer;Predictive+Analysis+Fan;Computer+Science+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
     <td width="50%">
       <b>Who am I?</b><br><br>
       🔭 Studying <b>Computer Science</b> (Predictive Analysis focus).<br>
-      💻 Specializing in <b>Data Analysis, Web Scraping, & Web Dev</b>.<br>
+      💻 Specializing in <b>AI Engineering, Data Analysis, Web Scraping, & Web Dev</b>.<br>
       ♟️ Passionate about <b>Chess, MOBAs, & Web3 Gaming</b>.<br>
       🎯 Goal: Leveraging data to build smarter web applications.
     </td>
