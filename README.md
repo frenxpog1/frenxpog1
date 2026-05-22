@@ -33,10 +33,10 @@
       🎯 Goal: Leveraging data to build smarter web applications.
     </td>
     <td width="50%" align="center">
-      <b>My Tech Stack</b><br><br>
+      <b>My Tech Stack</b><br>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,python,php,js,html,css,react,nodejs,postgres,pandas,selenium,numpy,git,xampp&theme=dark&perline=7" />
-      </a><br><br>
+      </a><br>
       <b>AI Tooling</b><br>
       <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
       <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
