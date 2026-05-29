@@ -14,13 +14,6 @@
 
 ---
 
-<div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=frenxpog1&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
-</div>
-
----
-
 ### 🚀 About Me & My Arsenal
 
 <table>
