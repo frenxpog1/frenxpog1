@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/profile-header.svg" alt="Frenzter Padal — an illustrated turntable with a spinning record">
+<img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/9a3a53d65bc2e65828c26b25fb9e92e210d2392c/assets/profile-header.svg" alt="Frenzter Padal — an illustrated turntable with a spinning record">
 
 <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=007BFF&style=flat-square" alt="Profile views">
 
