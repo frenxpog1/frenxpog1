@@ -1,14 +1,13 @@
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/frenxpog1/frenxpog1/1b409029539989d6c08853bc7efaf183bf784a35/assets/cover-mobile.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/1b409029539989d6c08853bc7efaf183bf784a35/assets/cover.svg" alt="Frenzter Padal · Computer Science at the University of San Carlos · Tacloban / Cebu. An illustrated trefoil knot.">
+  <img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/6e8d3b17b8c59ace5d21575cbe17b1ef39778fb9/assets/cover.svg" alt="Frenzter Padal · Computer Science at the University of San Carlos · Tacloban / Cebu. An illustrated trefoil knot.">
 </picture>
 
-<p align="center"><a href="#research">Research</a> &nbsp;·&nbsp; <a href="#selected-projects">Projects</a> &nbsp;·&nbsp; <a href="#off-the-clock">Off the clock</a></p>
+<p align="center"><a href="#binisaya-calibrated-similaritya-cebuano-parameterized-editex-and-syllable-stress-pipeline-for-confusable-drug-name-detection">Research</a> &nbsp;·&nbsp; <a href="#selected-projects">Projects</a> &nbsp;·&nbsp; <a href="#off-the-clock">Off the clock</a></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=007BFF&style=flat-square" alt="Profile views"></p>
 
 I’m Frenz, from Tacloban City, Leyte, now studying in Cebu. When I think I’ve figured something out, I try it on the smallest example I can find. Then I look for one that breaks it.
 
-<a id="research"></a>
 <h2 align="center">Binisaya-Calibrated Similarity:<br>A Cebuano-Parameterized Editex and Syllable-Stress Pipeline for Confusable Drug Name Detection</h2>
 
 **If two medicine names look different on paper, could a Cebuano speaker still hear them as the same name?** My thesis partner and I built Likoliko to explore that question. We compare possible pronunciations and check how closely our rankings match pharmacists’ judgments.
