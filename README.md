@@ -1,18 +1,28 @@
-<img src="./assets/profile-header.svg" alt="Frenzter Padal" width="100%">
+<img width="100%" src="./assets/profile-header.svg" alt="Frenzter Padal — an illustrated turntable with a spinning record">
 
-I’m Frenz. I study computer science, and lately I’ve been working on how Cebuano speakers read medicine names aloud. It’s the first project I’d point you to here.
+<img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=007BFF&style=flat-square" alt="Profile views">
 
-## Likoliko
+I'm Frenz, from Tacloban City, Leyte. I study computer science at the University of San Carlos in Cebu. Most days I’m somewhere between a Python notebook and a web app. After that, probably a ten-minute chess game.
 
-Two medicine names can look different on a label and still sound close when someone says them out loud. My thesis partner and I built Likoliko to explore those pairs. We keep several possible pronunciations for each name, compare spelling, sound, and syllable stress, then check how the rankings line up with reviewers’ judgments.
+## On my desk
 
-[Explore the research repository →](https://github.com/frenxpog1/Binisaya-Calibrated-Similarity)
+**Likoliko** · My thesis partner and I are working on a question we can actually hear: which medicine names sound alike when a Cebuano speaker reads them aloud? We compare several possible pronunciations for each name, then check our rankings against human judgments.
 
-## Other projects
+[Research repository](https://github.com/frenxpog1/Binisaya-Calibrated-Similarity) · [Web app source](https://github.com/frenzteriod-hub/confusable-drugs)
 
-| Project | What I worked on |
+## Tech stack
+
+<img src="https://skillicons.dev/icons?i=python,c,php,js,ts,react,nodejs,postgres,selenium,git&amp;perline=10" alt="Python, C, PHP, JavaScript, TypeScript, React, Node.js, PostgreSQL, Selenium and Git" width="420">
+
+| Where I use it | Tools |
 | --- | --- |
-| [PH price tracker](https://github.com/frenxpog1/price-tracker-lazada) | Tracking how a product’s price changes over time across Philippine marketplaces. The project brings together a Python scraper, PostgreSQL, and a React price-history chart. |
-| [Lost & Found](https://github.com/frenxpog1/Lost-Found-Web-App) | A Next.js project for people who’ve lost something or found something they’d like to return. |
+| Language and data work | Python, pandas, NumPy |
+| Web interfaces | React, TypeScript, JavaScript, HTML, CSS |
+| APIs and scraping | FastAPI, Node.js, Selenium, PostgreSQL |
+| Coursework and utilities | C, PHP, Git |
 
-Outside of code, I play rapid chess. Give me the White pieces and I’ll usually go for a Ruy Lopez.
+## Other builds
+
+**[Philippine price tracker](https://github.com/frenxpog1/price-tracker-lazada)** — A Selenium scraper collects listings, PostgreSQL keeps the price history, and a React chart shows how the price moves.
+
+**[Lost & Found](https://github.com/frenxpog1/Lost-Found-Web-App)** — A Next.js app for posting lost items and getting found ones back to their owners.
