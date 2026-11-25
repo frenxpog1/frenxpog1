@@ -1,10 +1,12 @@
-<img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/279b329c9471e6e2ae15afd350054d243ff2ad56/assets/profile-header.svg" alt="Frenzter Padal — three animated studies: a Mobile Legends rotation, a Lissajous curve and the Icelandic-Palme Gambit">
+<img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/86a6b2152e908409dbd0cce822a6d111e42d6a3b/assets/profile-header.svg" alt="Frenzter Padal — three animated studies: a Mobile Legends jungle route, rotating math problems and the Icelandic-Palme Gambit">
+
+<img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/86a6b2152e908409dbd0cce822a6d111e42d6a3b/assets/development-studies.svg" alt="Web development, AI automation, game development, machine learning and predictive analysis in motion">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=007BFF&style=flat-square" alt="Profile views">
 </p>
 
-I'm Frenz, from Tacloban City, Leyte. I study computer science at the University of San Carlos in Cebu. MLBB is my strongest game. I like figuring out when to leave lane and where the next fight will happen. I’m into math, too. The curve above comes from running two sine waves at different speeds. Over the chessboard I play the Ruy Lopez as White and like giving up a pawn for quick development in the Scandinavian as Black.
+I'm Frenz, from Tacloban City, Leyte. I study computer science at the University of San Carlos in Cebu. I play jungle in MLBB. I like the decision after a camp clear: take another camp, contest the river, or show up for a fight? I’m also into math, from graph problems to the shapes you can draw with a pair of equations. Over the chessboard I play the Ruy Lopez as White and like giving up a pawn for quick development in the Scandinavian as Black.
 
 <details>
 <summary>Replay my Ruy Lopez opening</summary>
