@@ -1,10 +1,17 @@
-<img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/04647fdc741cdc92a483eaf6e0b1723e190613ea/assets/profile-header.svg" alt="Frenzter Padal — the first five moves of the Ruy Lopez, ending with the white bishop on b5">
+<img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/279b329c9471e6e2ae15afd350054d243ff2ad56/assets/profile-header.svg" alt="Frenzter Padal — three animated studies: a Mobile Legends rotation, a Lissajous curve and the Icelandic-Palme Gambit">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=007BFF&style=flat-square" alt="Profile views">
 </p>
 
-I'm Frenz, from Tacloban City, Leyte. I study computer science at the University of San Carlos in Cebu. I like games where one move changes what the whole team can do. In a MOBA I’m watching the map. In rapid chess I’m usually looking for a tactic, even when I should probably just castle.
+I'm Frenz, from Tacloban City, Leyte. I study computer science at the University of San Carlos in Cebu. MLBB is my strongest game. I like figuring out when to leave lane and where the next fight will happen. I’m into math, too. The curve above comes from running two sine waves at different speeds. Over the chessboard I play the Ruy Lopez as White and like giving up a pawn for quick development in the Scandinavian as Black.
+
+<details>
+<summary>Replay my Ruy Lopez opening</summary>
+
+<img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/04647fdc741cdc92a483eaf6e0b1723e190613ea/assets/profile-header.svg" alt="Frenzter Padal — the first five moves of the Ruy Lopez, ending with the white bishop on b5">
+
+</details>
 
 ## On my desk
 
