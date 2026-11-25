@@ -6,7 +6,7 @@
 
 I’m Frenz, a CS student from Tacloban City, Leyte, now studying in Cebu. I like trying the smallest example I can think of. If my guess holds up, the fun part is finding the case where it breaks.
 
-## Binisaya-Calibrated Similarity: A Cebuano-Parameterized Editex and Syllable-Stress Pipeline for Confusable Drug Name Detection
+<h2 align="center">Binisaya-Calibrated Similarity: A Cebuano-Parameterized Editex and Syllable-Stress Pipeline for Confusable Drug Name Detection</h2>
 
 **Which medicine names sound alike to a Cebuano speaker?** My thesis partner and I built Likoliko to compare several ways someone might pronounce the same name. Reviewers judge the pairs, which lets us see where our spelling, sound, and stress scores match what people hear.
 
