@@ -12,6 +12,15 @@ I’m Frenz, a CS student from Tacloban City, Leyte, now studying in Cebu. I lik
 
 [Research repository](https://github.com/frenxpog1/Binisaya-Calibrated-Similarity) · [Likoliko web app source](https://github.com/frenzteriod-hub/confusable-drugs)
 
+## Achievements
+
+| Research milestone | Result |
+| --- | --- |
+| [Drug-name index](https://github.com/frenxpog1/Binisaya-Calibrated-Similarity) | Our thesis pipeline indexed **25,167 names** from 31,208 product records. |
+| [Three-reviewer evaluation](https://github.com/frenxpog1/Binisaya-Calibrated-Similarity) | Our team compared rankings on **696 drug-name pairs** with judgments from all three reviewers. |
+
+**Earned on GitHub** · [Pull Shark](https://github.com/frenxpog1?achievement=pull-shark&tab=achievements) · [Quickdraw](https://github.com/frenxpog1?achievement=quickdraw&tab=achievements) · [YOLO](https://github.com/frenxpog1?achievement=yolo&tab=achievements)
+
 ## Software interests
 
 <picture>
