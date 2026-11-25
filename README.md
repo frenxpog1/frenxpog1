@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=frenxpog1&label=Profile%20Views&color=007BFF&style=flat-square" alt="Profile views">
 </p>
 
-I’m Frenz, a CS student from Tacloban City, Leyte, now studying in Cebu. I build web apps and work with language data. My thesis started with a question I could ask someone out loud.
+I’m Frenz, a CS student from Tacloban City, Leyte, now studying in Cebu. I like trying the smallest example I can think of. If my guess holds up, the fun part is finding the case where it breaks.
 
 ## Likoliko
 
@@ -39,11 +39,11 @@ I’m Frenz, a CS student from Tacloban City, Leyte, now studying in Cebu. I bui
 
 ## Off the clock
 
-MLBB is my strongest game. I play jungle, so after a camp clear I’m watching the river and checking which lanes need me. I also like graph problems, especially when I can draw the answer. In chess I play the Ruy Lopez as White and the Scandinavian as Black. I’ll happily give up a pawn to get my pieces out early.
+I play a lot of different games. Lately I’ve been into the ones where I can read a situation and trust a hunch. I think I’m pretty good at spotting the turning point, though sometimes it only clicks halfway through the next game.
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/frenxpog1/frenxpog1/c10257af0ea2dd78aa21afef5746015f03bf828c/assets/interests-mobile.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/c10257af0ea2dd78aa21afef5746015f03bf828c/assets/interests.svg" alt="A looping MLBB jungle route, three rotating math studies and the Icelandic–Palme Gambit">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/frenxpog1/frenxpog1/6f2457d0c79af96083c495b57d4bf722693c489f/assets/interests-mobile.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/6f2457d0c79af96083c495b57d4bf722693c489f/assets/interests.svg" alt="An animated strategy map, three rotating math studies and the Icelandic–Palme Gambit">
 </picture>
 
 <details>
