@@ -42,13 +42,7 @@ I’m Frenz, a CS student from Tacloban City, Leyte, now studying in Cebu. I lik
 I play a lot of different games. Lately I’ve been into the ones where I can read a situation and trust a hunch. I think I’m pretty good at spotting the turning point, though sometimes it only clicks halfway through the next game.
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/frenxpog1/frenxpog1/6f2457d0c79af96083c495b57d4bf722693c489f/assets/interests-mobile.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/6f2457d0c79af96083c495b57d4bf722693c489f/assets/interests.svg" alt="An animated strategy map, three rotating math studies and the Icelandic–Palme Gambit">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/frenxpog1/frenxpog1/69f2096d547eb060c01f8c1e590c62a1ea09f338/assets/interests-mobile.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/69f2096d547eb060c01f8c1e590c62a1ea09f338/assets/interests.svg" alt="An animated strategy map, three rotating math studies and one board alternating the Ruy Lopez and Icelandic–Palme Gambit">
 </picture>
 
-<details>
-<summary>Replay my Ruy Lopez opening</summary>
-
-<img width="100%" src="https://raw.githubusercontent.com/frenxpog1/frenxpog1/04647fdc741cdc92a483eaf6e0b1723e190613ea/assets/profile-header.svg" alt="Frenzter Padal — the first five moves of the Ruy Lopez, ending with the white bishop on b5">
-
-</details>
