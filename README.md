@@ -6,11 +6,11 @@
 
 I’m Frenz, a CS student from Tacloban City, Leyte, now studying in Cebu. I like trying the smallest example I can think of. If my guess holds up, the fun part is finding the case where it breaks.
 
-## Likoliko
+## Binisaya-Calibrated Similarity: A Cebuano-Parameterized Editex and Syllable-Stress Pipeline for Confusable Drug Name Detection
 
 **Which medicine names sound alike to a Cebuano speaker?** My thesis partner and I built Likoliko to compare several ways someone might pronounce the same name. Reviewers judge the pairs, which lets us see where our spelling, sound, and stress scores match what people hear.
 
-[Research repository](https://github.com/frenxpog1/Binisaya-Calibrated-Similarity) · [Web app source](https://github.com/frenzteriod-hub/confusable-drugs)
+[Research repository](https://github.com/frenxpog1/Binisaya-Calibrated-Similarity) · [Likoliko web app source](https://github.com/frenzteriod-hub/confusable-drugs)
 
 ## Software interests
 
